@@ -1,0 +1,1 @@
+*/15 * * * * /etc/cron.d/chk_passwd_file.sh
